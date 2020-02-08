@@ -116,3 +116,16 @@ Example:
 getDeviceName
 
 <<Device name is ROOM1DEVICE
+
+## Files
+### asf.h
+Library for SAM xxx microcontroller
+### main.c
+Main running code
+### circular_buffer.c/.h
+Implementation of ring buffer
+### SerialConsole.c/.h
+Implementation of CLI functions. (Also includes other important UART code)
+
+## Statement
+This project is a part of University of Pennsylvania, only SerialConsole.c is worked by author, and other files are designed by courses.
