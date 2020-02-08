@@ -5,10 +5,10 @@
 #### Description
 Prints all the available commands and a short synopsis
 
-####Inputs
+#### Inputs
 None
 
-####Output
+#### Output
 List of all available commands and their descriptions
 ### ver_bl
 ####Description
