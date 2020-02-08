@@ -1,5 +1,6 @@
-# This file is the implementation of CLI on SAM W25.
-
+# CLI on SAM W25.
+This project is the implementation of CLI on SAM W25, compiled by Atmel Studio 7.0, running on Windows 10. User should use teraterm,
+or similar serial communication software to test the project.
 ## commands for CLI
 ### help
 #### Description
@@ -118,6 +119,7 @@ getDeviceName
 <<Device name is ROOM1DEVICE
 
 ## Files
+Other libraries should download from Atmel Studio 7
 ### asf.h
 Library for SAM xxx microcontroller
 ### main.c
